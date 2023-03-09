@@ -8,8 +8,8 @@
 
 ## You could contact me:
 
-1. [telegram]: (https://t.me/pay2w8)
-2. # Email: melnikovstn@yandex.ru
+1. [telegram](https://t.me/pay2w8)
+2. Email: melnikovstn@yandex.ru
 
 ## Hard Skills:
 
