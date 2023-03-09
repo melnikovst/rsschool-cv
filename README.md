@@ -98,3 +98,7 @@ function formatDuration (seconds) {
 
 - Russian Native
 - English B1-B2
+
+### Link to deploy:
+
+https://melnikovst.github.io/rsschool-cv/
