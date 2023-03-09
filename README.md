@@ -1,3 +1,3 @@
 # RS SCHOOL
 
-Link: https://melnikovst.github.io/rsschool-cv/cv
+Link: https://melnikovst.github.io/rsschool-cv/
