@@ -1,10 +1,6 @@
 # Stanislav Melnikov
 
-===
-
 ## Junior+/Middle frontend developer
-
-===
 
 ## You could contact me:
 
