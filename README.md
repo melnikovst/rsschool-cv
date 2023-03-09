@@ -50,7 +50,13 @@ function formatDuration (seconds) {
   const d = Math.floor((seconds / (24 * 60 * 60))) % 365;
   const y = Math.floor((seconds / (365 * 24 * 60 * 60)));
 
-  const arr = [{v: s, t: 'second'}, {v: m, t: 'minute'}, {v: h, t: 'hour'}, {v: d, t: 'day'}, {v: y, t: 'year'}];
+  const arr = [
+                {v: s, t: 'second'},
+                {v: m, t: 'minute'},
+                {v: h, t: 'hour'},
+                {v: d, t: 'day'},
+                {v: y, t: 'year'}
+              ];
 
   const matched = arr.map((x, i) => {
     const {v, t} = x;
