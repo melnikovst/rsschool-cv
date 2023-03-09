@@ -38,6 +38,7 @@ I really interested to learn a new technologies and improving my expertise. I am
 ## My code example:
 
 - Task: [4 kyu](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
+
   Need to implement a function which formats a duration, given as a number of seconds, in a human-friendly way. The duration is expressed as a combination of years, days, hours, minutes and seconds.
 
 ```
